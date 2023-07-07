@@ -1,2 +1,2 @@
-# JS-ile-Benzin-Istasyonu-Uygulamasi-Ornegi
-JavaScript ile Benzin İstasyonu Uygulaması Örneği
+# Gas station example with JavaScript
+I made a gas station example using only JavaScript.
